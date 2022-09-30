@@ -1,0 +1,7 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "main": "logger_server.js",
+  "browser": "logger_browser.js",
+  "type": "module"
+}

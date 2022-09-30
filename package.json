@@ -1,0 +1,14 @@
+{
+  "name": "isomorphic-workspaces-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Thomas Wang <hi@xgwang.me>",
+  "license": "MIT",
+  "packageManager": "yarn@3.2.3",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "esbuild": "^0.15.10"
+  }
+}

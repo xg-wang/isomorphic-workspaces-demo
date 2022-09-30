@@ -1,0 +1,12 @@
+{
+  "name": "client_server_shared",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "workspaces": [
+    "logger"
+  ],
+  "dependencies": {
+    "logger": "workspace:*"
+  }
+}

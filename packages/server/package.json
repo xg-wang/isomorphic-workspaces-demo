@@ -1,0 +1,12 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "dependencies": {
+    "client_server_shared": "workspace:*"
+  },
+  "scripts": {
+    "start": "node main.js"
+  }
+}
