@@ -1,6 +1,6 @@
 # Isomorphic workspaces demo
 
-Build
+Install dependencies
 ```sh
 > yarn
 ```
