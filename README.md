@@ -6,13 +6,13 @@ Build
 ```
 
 Run server side code
-```
+```sh
 > yarn workspace server start  
 Hello from server
 ```
 
 Bundle client side code
-```
+```sh
 > yarn workspace client build
 
   dist/main.js  214b
